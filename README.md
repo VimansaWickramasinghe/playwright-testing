@@ -36,5 +36,7 @@ To view it use the below command.
 
 command -------> npx playwright show-report
 
+To generate codes
 
+command -------> npx playwright codegen
 
